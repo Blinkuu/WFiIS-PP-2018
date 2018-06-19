@@ -1,0 +1,16 @@
+Imie: lukasz
+Nazwisko: gut
+Wiek: 123
+Nr indeksu: 231712
+Imie: lukasz
+Nazwisko: jalowy
+Wiek: 219
+Nr indeksu: 237123
+Imie: Konrad
+Nazwisko: lysy
+Wiek: 123
+Nr indeksu: 21893
+Imie: lukasz
+Nazwisko: gut
+Wiek: 312
+Nr indeksu: 39218312

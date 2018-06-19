@@ -1,0 +1,9 @@
+Argument[0] = ./a.out
+Argument[1] = jeden
+Argument[2] = 2
+Argument[3] = 3.5
+i = 2, f = 3.500000
+Podaj lancuch znakow:
+kacper lala
+Podaj drugi lancuch znakow:
+dawid pala

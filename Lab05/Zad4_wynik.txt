@@ -1,0 +1,3 @@
+Liczba linii = 73
+Liczba znakow = 2198
+Najczesciej wystepujaec litery to: O = 126 oraz A = 162

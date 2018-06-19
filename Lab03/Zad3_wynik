@@ -1,0 +1,22 @@
+17 12 13 18 11 
+18 11 13 20 18 
+15 18 12 15 13 
+11 10 17 11 14 
+12 17 13 12 14 
+Srednia 0 wiersza = 14.20
+Srednia 1 wiersza = 16.00
+Srednia 2 wiersza = 14.60
+Srednia 3 wiersza = 12.60
+Srednia 4 wiersza = 13.60
+17 18 15 11 12 
+12 11 18 10 17 
+13 13 12 17 13 
+18 20 15 11 12 
+11 18 13 14 14 
+Srednia 0 kolumny = 14.20
+Srednia 1 kolumny = 16.00
+Srednia 2 kolumny = 14.60
+Srednia 3 kolumny = 12.60
+Srednia 4 kolumny = 13.60
+
+Tak, suma elementow we wszystkich wierszach jest rowna sumie elementow we wszystkich kolumnach.
